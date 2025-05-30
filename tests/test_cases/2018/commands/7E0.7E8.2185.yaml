@@ -1,0 +1,18 @@
+command_id: 7E0.7E8.2185
+test_cases:
+- response: '7E8056185010000'
+  expected_values:
+    LEXUS_GEAR: 1
+    LEXUS_GEAR_LOCKUP: 0
+- response: '7E8056185058000'
+  expected_values:
+    LEXUS_GEAR: 5
+    LEXUS_GEAR_LOCKUP: 1
+- response: '7E8056185058018'
+  expected_values:
+    LEXUS_GEAR: 5
+    LEXUS_GEAR_LOCKUP: 1
+- response: '7E8056185060010'
+  expected_values:
+    LEXUS_GEAR: 6
+    LEXUS_GEAR_LOCKUP: 0
