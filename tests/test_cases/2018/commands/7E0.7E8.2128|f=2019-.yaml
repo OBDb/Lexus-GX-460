@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2128|f=2019-
+test_cases:
+- response: 7E805612801C6B1
+  expected_values:
+    LEXUS_ODO_V2: 116401
+- response: 7E805612801C6FF
+  expected_values:
+    LEXUS_ODO_V2: 116479
+- response: 7E805612801C700
+  expected_values:
+    LEXUS_ODO_V2: 116480
+- response: 7E805612801C900
+  expected_values:
+    LEXUS_ODO_V2: 116992
