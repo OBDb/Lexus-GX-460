@@ -1,0 +1,9 @@
+command_id: 7E0.7E8.2121
+test_cases:
+- response: |-
+    7E81015612100000000
+    7E82180000080000000
+    7E82200000000000000
+    7E82300000000000000
+  expected_values:
+    LEXUS_CC_S_V2: 0
