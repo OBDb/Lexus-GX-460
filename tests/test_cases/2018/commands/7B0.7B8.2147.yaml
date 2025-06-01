@@ -1,0 +1,26 @@
+command_id: 7B0.7B8.2147
+test_cases:
+- response: 7B807614700007E7FB4
+  expected_values:
+    LEXUS_STEER_ANGLE_V2: -1000
+- response: 7B80761470000808000
+  expected_values:
+    LEXUS_STEER_ANGLE_V2: -1000
+- response: 7B807614700FF8079D7
+  expected_values:
+    LEXUS_STEER_ANGLE_V2: -1000
+- response: 7B80761470100807FFF
+  expected_values:
+    LEXUS_STEER_ANGLE_V2: -1000
+- response: 7B807614709FC9C9454
+  expected_values:
+    LEXUS_STEER_ANGLE_V2: -1000
+- response: 7B8076147F4096475B9
+  expected_values:
+    LEXUS_STEER_ANGLE_V2: -1000
+- response: 7B8076147FE008868D5
+  expected_values:
+    LEXUS_STEER_ANGLE_V2: -1000
+- response: 7B8076147FF007A70B9
+  expected_values:
+    LEXUS_STEER_ANGLE_V2: -1000
