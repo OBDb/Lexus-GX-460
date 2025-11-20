@@ -4,3 +4,23 @@ test_cases:
     LEXUS_ATF_PAN_T: 64.375
     LEXUS_ATF_TQC_T: 64.375
   response: '7E806618268606860'
+- expected_values:
+    LEXUS_ATF_PAN_T: 65
+    LEXUS_ATF_TQC_T: 65
+  response: '7E806618269006900'
+- expected_values:
+    LEXUS_ATF_PAN_T: 65.625
+    LEXUS_ATF_TQC_T: 66.875
+  response: 7E806618269A06AE0
+- expected_values:
+    LEXUS_ATF_PAN_T: 67.5
+    LEXUS_ATF_TQC_T: 70
+  response: 7E80661826B806E00
+- expected_values:
+    LEXUS_ATF_PAN_T: 68.125
+    LEXUS_ATF_TQC_T: 69.375
+  response: 7E80661826C206D60
+- expected_values:
+    LEXUS_ATF_PAN_T: 68.75
+    LEXUS_ATF_TQC_T: 74.375
+  response: 7E80661826CC07260
