@@ -2,15 +2,17 @@ command_id: 7D0.2162
 test_cases:
 - expected_values:
     LEXUS_PARKING_BRAKE: 'Off'
+    LEXUS_PARKING_BRAKE_2: 1
   response: |-
     2162
     7D80461620100
 - expected_values:
-    LEXUS_PARKING_BRAKE: 'Off'
-  response: 7D80461620100
+    LEXUS_PARKING_BRAKE_2: 0
+  response: 7D80461620000
 - expected_values:
     LEXUS_PARKING_BRAKE: 'Off'
+    LEXUS_PARKING_BRAKE_2: 1
   response: 7D80461620188
 - expected_values:
-    LEXUS_PARKING_BRAKE: 'Off'
-  response: 7D80461620900
+    LEXUS_PARKING_BRAKE_2: 1
+  response: 7D80461621900
