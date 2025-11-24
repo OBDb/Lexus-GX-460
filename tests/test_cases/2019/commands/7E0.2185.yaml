@@ -6,6 +6,11 @@ test_cases:
     LEXUS_TQC_LOCKUP: 0
   response: '7E8056185010010'
 - expected_values:
+    LEXUS_GEAR: 2
+    LEXUS_GEAR_V2_V2: 2
+    LEXUS_TQC_LOCKUP: 0
+  response: '7E8056185020010'
+- expected_values:
     LEXUS_GEAR: 3
     LEXUS_GEAR_V2_V2: 3
     LEXUS_TQC_LOCKUP: 0
