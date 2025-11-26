@@ -19,6 +19,12 @@ test_cases:
     LEXUS_TIRE_RR_SPD: 3.84
   response: 7B80761030303030300
 - expected_values:
+    LEXUS_TIRE_FL_SPD: 17.92
+    LEXUS_TIRE_FR_SPD: 20.48
+    LEXUS_TIRE_RL_SPD: 17.92
+    LEXUS_TIRE_RR_SPD: 20.48
+  response: 7B8076103100E100E00
+- expected_values:
     LEXUS_TIRE_FL_SPD: 26.88
     LEXUS_TIRE_FR_SPD: 26.88
     LEXUS_TIRE_RL_SPD: 26.88
@@ -30,6 +36,12 @@ test_cases:
     LEXUS_TIRE_RL_SPD: 38.4
     LEXUS_TIRE_RR_SPD: 38.4
   response: 7B80761031E1E1E1E00
+- expected_values:
+    LEXUS_TIRE_FL_SPD: 44.8
+    LEXUS_TIRE_FR_SPD: 44.8
+    LEXUS_TIRE_RL_SPD: 44.8
+    LEXUS_TIRE_RR_SPD: 44.8
+  response: 7B80761032323232300
 - expected_values:
     LEXUS_TIRE_FL_SPD: 47.36
     LEXUS_TIRE_FR_SPD: 47.36
