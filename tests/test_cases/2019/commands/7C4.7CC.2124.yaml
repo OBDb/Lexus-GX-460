@@ -1,14 +1,14 @@
 command_id: 7C4.7CC.2124
 test_cases:
 - expected_values:
-    LEXUS_SOLAR_D_SIDE: 0
+    LEXUS_SOLAR_DRIVER: 0
   response: 7CC03612400
 - expected_values:
-    LEXUS_SOLAR_D_SIDE: 2
+    LEXUS_SOLAR_DRIVER: 2
   response: 7CC03612402
 - expected_values:
-    LEXUS_SOLAR_D_SIDE: 3
+    LEXUS_SOLAR_DRIVER: 3
   response: 7CC03612403
 - expected_values:
-    LEXUS_SOLAR_D_SIDE: 5
+    LEXUS_SOLAR_DRIVER: 5
   response: 7CC03612405
