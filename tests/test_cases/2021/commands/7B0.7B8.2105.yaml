@@ -1,0 +1,74 @@
+command_id: 7B0.7B8.2105
+test_cases:
+- expected_values:
+    LEXUS_DECEL: -0.78424
+    LEXUS_DECEL_2: 0.35647
+  response: |-
+    7B8100961057A820216
+    7B82100032700000000
+- expected_values:
+    LEXUS_DECEL: -0.35647
+    LEXUS_DECEL_2: -1.06941
+  response: |-
+    7B8100961057D7803B6
+    7B82100005800000000
+- expected_values:
+    LEXUS_DECEL: -0.35647
+    LEXUS_DECEL_2: 0.07129
+  response: |-
+    7B8100961057D800570
+    7B82100FAF000000000
+- expected_values:
+    LEXUS_DECEL: -0.07129
+    LEXUS_DECEL_2: -0.21388
+  response: |-
+    7B8100961057F7E073B
+    7B821230F7F00000000
+- expected_values:
+    LEXUS_DECEL: -0.07129
+    LEXUS_DECEL_2: 0.21388
+  response: |-
+    7B8100961057F810815
+    7B821240F9400000000
+- expected_values:
+    LEXUS_DECEL: 0.07129
+    LEXUS_DECEL_2: 0.21388
+  response: |-
+    7B810096105808106FF
+    7B8212A15DB00000000
+- expected_values:
+    LEXUS_DECEL: 0.07129
+    LEXUS_DECEL_2: 0.35647
+  response: |-
+    7B810096105808206B2
+    7B82125101400000000
+- expected_values:
+    LEXUS_DECEL: 0.07129
+    LEXUS_DECEL_2: 0.49906
+  response: |-
+    7B810096105808302BE
+    7B82100FFDC00000000
+- expected_values:
+    LEXUS_DECEL: 0.07129
+    LEXUS_DECEL_2: 0.49906
+  response: |-
+    7B8100961058083075A
+    7B8212F195B00000000
+- expected_values:
+    LEXUS_DECEL: 0.35647
+    LEXUS_DECEL_2: -0.35647
+  response: |-
+    7B810096105827D0800
+    7B821301A9100000000
+- expected_values:
+    LEXUS_DECEL: 0.49906
+    LEXUS_DECEL_2: 0.07129
+  response: |-
+    7B810096105838005BA
+    7B82142254400000000
+- expected_values:
+    LEXUS_DECEL: 1.63976
+    LEXUS_DECEL_2: 1.49718
+  response: |-
+    7B8100961058B8A07FF
+    7B821381F2E00000000
