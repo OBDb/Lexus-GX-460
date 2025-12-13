@@ -4,5 +4,5 @@ test_cases:
     LEXUS_CC_VSS: 0
   response: 7B803612100
 - expected_values:
-    LEXUS_CC_VSS: 98
-  response: 7B803612162
+    LEXUS_CC_VSS: 99
+  response: 7B803612163
