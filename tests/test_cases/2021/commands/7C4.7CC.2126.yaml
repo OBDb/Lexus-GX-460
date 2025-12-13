@@ -4,5 +4,5 @@ test_cases:
     LEXUS_ECT: 76.55
   response: 7CC036126D7
 - expected_values:
-    LEXUS_ECT: 87.05
-  response: 7CC036126F5
+    LEXUS_ECT: 87.75
+  response: 7CC036126F7
