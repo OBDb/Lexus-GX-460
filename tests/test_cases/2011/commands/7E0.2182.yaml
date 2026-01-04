@@ -1,0 +1,12 @@
+command_id: 7E0.2182
+test_cases:
+- expected_values:
+    LEXUS_ATF_PAN_T: 55.625
+    LEXUS_ATF_TQC_T: 55
+  response: |-
+    2182
+    7E80661825FA05F00
+- expected_values:
+    LEXUS_ATF_PAN_T: 56.25
+    LEXUS_ATF_TQC_T: 55.625
+  response: 7E806618260405FA0
