@@ -1,0 +1,10 @@
+command_id: 7C4.214C
+test_cases:
+- expected_values:
+    LEXUS_EVAP_TARGET_T: 1.5
+  response: |-
+    214C
+    7CC04614C8096
+- expected_values:
+    LEXUS_EVAP_TARGET_T: 1.5
+  response: 7CC04614C8096
