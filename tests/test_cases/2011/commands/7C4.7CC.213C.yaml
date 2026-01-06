@@ -1,0 +1,31 @@
+command_id: 7C4.7CC.213C
+test_cases:
+- expected_values:
+    LEXUS_BLOWER_MOTOR_SPEED_LEVEL: 9
+  response: |-
+    213C1
+    7CC03613C09
+- expected_values:
+    LEXUS_BLOWER_MOTOR_SPEED_LEVEL: 0
+  response: 7CC03613C00
+- expected_values:
+    LEXUS_BLOWER_MOTOR_SPEED_LEVEL: 9
+  response: 7CC03613C09
+- expected_values:
+    LEXUS_BLOWER_MOTOR_SPEED_LEVEL: 13
+  response: 7CC03613C0D
+- expected_values:
+    LEXUS_BLOWER_MOTOR_SPEED_LEVEL: 20
+  response: 7CC03613C14
+- expected_values:
+    LEXUS_BLOWER_MOTOR_SPEED_LEVEL: 23
+  response: 7CC03613C17
+- expected_values:
+    LEXUS_BLOWER_MOTOR_SPEED_LEVEL: 24
+  response: 7CC03613C18
+- expected_values:
+    LEXUS_BLOWER_MOTOR_SPEED_LEVEL: 25
+  response: 7CC03613C19
+- expected_values:
+    LEXUS_BLOWER_MOTOR_SPEED_LEVEL: 27
+  response: 7CC03613C1B
