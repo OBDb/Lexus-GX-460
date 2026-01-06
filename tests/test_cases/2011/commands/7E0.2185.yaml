@@ -1,0 +1,19 @@
+command_id: 7E0.2185
+test_cases:
+- expected_values:
+    LEXUS_GEAR: 1
+    LEXUS_GEAR_V2_V2: 1
+    LEXUS_TQC_LOCKUP: 0
+  response: |-
+    2185
+    7E8056185010010
+- expected_values:
+    LEXUS_GEAR: 1
+    LEXUS_GEAR_V2_V2: 1
+    LEXUS_TQC_LOCKUP: 0
+  response: '7E8056185010010'
+- expected_values:
+    LEXUS_GEAR: 4
+    LEXUS_GEAR_V2_V2: 4
+    LEXUS_TQC_LOCKUP: 0
+  response: '7E8056185040010'
