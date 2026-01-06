@@ -1,0 +1,22 @@
+command_id: 7C4.7CC.2126
+test_cases:
+- expected_values:
+    LEXUS_ECT: 84.25
+  response: |-
+    2126
+    7CC036126ED
+- expected_values:
+    LEXUS_ECT: 16
+  response: 7CC0361262A
+- expected_values:
+    LEXUS_ECT: 25.45
+  response: 7CC03612645
+- expected_values:
+    LEXUS_ECT: 31.4
+  response: 7CC03612656
+- expected_values:
+    LEXUS_ECT: 40.85
+  response: 7CC03612671
+- expected_values:
+    LEXUS_ECT: 84.25
+  response: 7CC036126ED
