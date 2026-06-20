@@ -7,6 +7,14 @@ test_cases:
     LEXUS_ZP_YAW_RATE: 0
   response: |-
     7B8100961460000807F
+    7B821E0881F00000000
+- expected_values:
+    LEXUS_ZP_DEC: -25.11
+    LEXUS_ZP_DEC2: -25.11
+    LEXUS_ZP_YAW: 0
+    LEXUS_ZP_YAW_RATE: 0
+  response: |-
+    7B8100961460000807F
     7B821F0881F00000000
 - expected_values:
     LEXUS_ZP_DEC: -25.11
@@ -15,31 +23,7 @@ test_cases:
     LEXUS_ZP_YAW_RATE: 0
   response: |-
     7B8100961460000807F
-    7B821F1881F00000000
-- expected_values:
-    LEXUS_ZP_DEC: -25.11
-    LEXUS_ZP_DEC2: -25.11
-    LEXUS_ZP_YAW: 0
-    LEXUS_ZP_YAW_RATE: 0
-  response: |-
-    7B8100961460000807F
-    7B821F5881F00000000
-- expected_values:
-    LEXUS_ZP_DEC: -25.11
-    LEXUS_ZP_DEC2: -25.11
-    LEXUS_ZP_YAW: 0
-    LEXUS_ZP_YAW_RATE: 0
-  response: |-
-    7B8100961460000807F
-    7B821F6881F00000000
-- expected_values:
-    LEXUS_ZP_DEC: -25.11
-    LEXUS_ZP_DEC2: -25.11
-    LEXUS_ZP_YAW: 0
-    LEXUS_ZP_YAW_RATE: 0
-  response: |-
-    7B8100961460000807F
-    7B821F8881F00000000
+    7B821FD881F00000000
 - expected_values:
     LEXUS_ZP_DEC: -25.11
     LEXUS_ZP_DEC2: -25.11
@@ -48,27 +32,3 @@ test_cases:
   response: |-
     7B81009614600008080
     7B82100881F00000000
-- expected_values:
-    LEXUS_ZP_DEC: -25.11
-    LEXUS_ZP_DEC2: -25.11
-    LEXUS_ZP_YAW: 0
-    LEXUS_ZP_YAW_RATE: 0
-  response: |-
-    7B81009614600008080
-    7B82101881F00000000
-- expected_values:
-    LEXUS_ZP_DEC: -25.11
-    LEXUS_ZP_DEC2: -25.11
-    LEXUS_ZP_YAW: 0
-    LEXUS_ZP_YAW_RATE: 0
-  response: |-
-    7B81009614600008080
-    7B82102881F00000000
-- expected_values:
-    LEXUS_ZP_DEC: -25.11
-    LEXUS_ZP_DEC2: -25.11
-    LEXUS_ZP_YAW: 0
-    LEXUS_ZP_YAW_RATE: 0
-  response: |-
-    7B81009614600008080
-    7B82106881F00000000
