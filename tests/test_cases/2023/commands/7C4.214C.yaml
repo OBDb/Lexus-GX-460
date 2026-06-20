@@ -1,0 +1,32 @@
+command_id: 7C4.214C
+test_cases:
+- expected_values:
+    LEXUS_EVAP_TARGET_T: 1.88
+  response: 7CC04614C80BC
+- expected_values:
+    LEXUS_EVAP_TARGET_T: 2.01
+  response: 7CC04614C80C9
+- expected_values:
+    LEXUS_EVAP_TARGET_T: 2.13
+  response: 7CC04614C80D5
+- expected_values:
+    LEXUS_EVAP_TARGET_T: 2.26
+  response: 7CC04614C80E2
+- expected_values:
+    LEXUS_EVAP_TARGET_T: 2.41
+  response: 7CC04614C80F1
+- expected_values:
+    LEXUS_EVAP_TARGET_T: 2.53
+  response: 7CC04614C80FD
+- expected_values:
+    LEXUS_EVAP_TARGET_T: 2.71
+  response: 7CC04614C810F
+- expected_values:
+    LEXUS_EVAP_TARGET_T: 2.85
+  response: 7CC04614C811D
+- expected_values:
+    LEXUS_EVAP_TARGET_T: 2.98
+  response: 7CC04614C812A
+- expected_values:
+    LEXUS_EVAP_TARGET_T: 3
+  response: 7CC04614C812C

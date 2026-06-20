@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2128
+test_cases:
+- expected_values:
+    LEXUS_ODO_V3: 60503
+  response: 7E805612800EC57
+- expected_values:
+    LEXUS_ODO_V3: 60504
+  response: 7E805612800EC58
+- expected_values:
+    LEXUS_ODO_V3: 60506
+  response: 7E805612800EC5A
+- expected_values:
+    LEXUS_ODO_V3: 60507
+  response: 7E805612800EC5B
+- expected_values:
+    LEXUS_ODO_V3: 60509
+  response: 7E805612800EC5D
