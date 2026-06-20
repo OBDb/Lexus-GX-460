@@ -15,3 +15,12 @@ test_cases:
 - expected_values:
     LEXUS_ODO_V3: 60509
   response: 7E805612800EC5D
+- expected_values:
+    LEXUS_ODO_V3: 60511
+  response: 7E805612800EC5F
+- expected_values:
+    LEXUS_ODO_V3: 60512
+  response: 7E805612800EC60
+- expected_values:
+    LEXUS_ODO_V3: 60514
+  response: 7E805612800EC62
