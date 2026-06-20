@@ -1,0 +1,11 @@
+command_id: 7C4.7CC.213D
+test_cases:
+- expected_values:
+    LEXUS_ADJUSTED_AMBIENT_T: 29.68
+  response: 7CC03613DBD
+- expected_values:
+    LEXUS_ADJUSTED_AMBIENT_T: 30
+  response: 7CC03613DBE
+- expected_values:
+    LEXUS_ADJUSTED_AMBIENT_T: 30.32
+  response: 7CC03613DBF
