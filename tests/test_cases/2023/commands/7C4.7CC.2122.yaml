@@ -1,8 +1,8 @@
 command_id: 7C4.7CC.2122
 test_cases:
 - expected_values:
-    LEXUS_AAT_7C4: 21.5
-  response: 7CC03612280
+    LEXUS_AAT_7C4: 19.75
+  response: 7CC0361227B
 - expected_values:
     LEXUS_AAT_7C4: 31.3
   response: 7CC0361229C
