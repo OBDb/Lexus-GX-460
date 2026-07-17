@@ -2,6 +2,12 @@ command_id: 7B0.7B8.2105
 test_cases:
 - expected_values:
     LEXUS_DECEL: -2.78047
+    LEXUS_DECEL_2: 0.35647
+  response: |-
+    7B8100961056C820329
+    7B82100FA5A00000000
+- expected_values:
+    LEXUS_DECEL: -2.78047
     LEXUS_DECEL_2: 0.49906
   response: |-
     7B8100961056C830262
@@ -67,17 +73,17 @@ test_cases:
     7B8100961058079051B
     7B821240FF100000000
 - expected_values:
-    LEXUS_DECEL: 0.35647
-    LEXUS_DECEL_2: 0.49906
-  response: |-
-    7B810096105828307A6
-    7B8214519A300000000
-- expected_values:
     LEXUS_DECEL: 0.78424
     LEXUS_DECEL_2: 0.35647
   response: |-
     7B81009610585820850
     7B821331C7B00000000
+- expected_values:
+    LEXUS_DECEL: 0.92682
+    LEXUS_DECEL_2: 0.64165
+  response: |-
+    7B810096105868408D5
+    7B821601D8600000000
 - expected_values:
     LEXUS_DECEL: 2.49529
     LEXUS_DECEL_2: 0.64165
