@@ -19,6 +19,12 @@ test_cases:
     7B8100961056E7F0232
     7B82100FE5F00000000
 - expected_values:
+    LEXUS_DECEL: -2.49529
+    LEXUS_DECEL_2: 0.78424
+  response: |-
+    7B8100961056E85032F
+    7B82100000000000000
+- expected_values:
     LEXUS_DECEL: -1.78235
     LEXUS_DECEL_2: -0.07129
   response: |-
@@ -36,12 +42,6 @@ test_cases:
   response: |-
     7B81009610576830300
     7B82100FB2B00000000
-- expected_values:
-    LEXUS_DECEL: -1.06941
-    LEXUS_DECEL_2: 0.21388
-  response: |-
-    7B810096105788102CE
-    7B82100000F00000000
 - expected_values:
     LEXUS_DECEL: -0.78424
     LEXUS_DECEL_2: -3.20824
