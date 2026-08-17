@@ -3,6 +3,14 @@ test_cases:
 - expected_values:
     LEXUS_LAT_G: 0
     LEXUS_LNG_G: 0
+    LEXUS_STEERING_ANGLE: -284.6
+    LEXUS_STEER_ANGLE: -284.6
+    LEXUS_YAW: -11
+    LEXUS_YAW_RATE: -11
+  response: 7B807614700007574E2
+- expected_values:
+    LEXUS_LAT_G: 0
+    LEXUS_LNG_G: 0
     LEXUS_STEERING_ANGLE: 618.7
     LEXUS_STEER_ANGLE: 618.7
     LEXUS_YAW: -9
