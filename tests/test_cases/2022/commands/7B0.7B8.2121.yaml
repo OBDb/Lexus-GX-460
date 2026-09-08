@@ -1,0 +1,26 @@
+command_id: 7B0.7B8.2121
+test_cases:
+- expected_values:
+    LEXUS_VEHICLE_SPEED_7B0: 1.28
+    LEXUS_VSS: 1.28
+  response: 7B803612101
+- expected_values:
+    LEXUS_VEHICLE_SPEED_7B0: 7.68
+    LEXUS_VSS: 7.68
+  response: 7B803612106
+- expected_values:
+    LEXUS_VEHICLE_SPEED_7B0: 70.4
+    LEXUS_VSS: 70.4
+  response: 7B803612137
+- expected_values:
+    LEXUS_VEHICLE_SPEED_7B0: 71.68
+    LEXUS_VSS: 71.68
+  response: 7B803612138
+- expected_values:
+    LEXUS_VEHICLE_SPEED_7B0: 111.36
+    LEXUS_VSS: 111.36
+  response: 7B803612157
+- expected_values:
+    LEXUS_VEHICLE_SPEED_7B0: 112.64
+    LEXUS_VSS: 112.64
+  response: 7B803612158
