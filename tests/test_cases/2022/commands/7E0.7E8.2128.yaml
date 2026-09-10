@@ -4,23 +4,8 @@ test_cases:
     LEXUS_ODO_V3: 105616
   response: 7E8056128019C90
 - expected_values:
-    LEXUS_ODO_V3: 105617
-  response: 7E8056128019C91
-- expected_values:
-    LEXUS_ODO_V3: 105635
-  response: 7E8056128019CA3
-- expected_values:
-    LEXUS_ODO_V3: 105637
-  response: 7E8056128019CA5
-- expected_values:
-    LEXUS_ODO_V3: 105659
-  response: 7E8056128019CBB
-- expected_values:
-    LEXUS_ODO_V3: 105661
-  response: 7E8056128019CBD
-- expected_values:
-    LEXUS_ODO_V3: 105670
-  response: 7E8056128019CC6
-- expected_values:
     LEXUS_ODO_V3: 105707
   response: 7E8056128019CEB
+- expected_values:
+    LEXUS_ODO_V3: 105801
+  response: 7E8056128019D49

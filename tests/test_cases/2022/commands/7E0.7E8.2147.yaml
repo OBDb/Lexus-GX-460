@@ -16,6 +16,9 @@ test_cases:
     LEXUS_EGR_STEP_POSITION: 23
   response: '7E803614717'
 - expected_values:
+    LEXUS_EGR_STEP_POSITION: 25
+  response: '7E803614719'
+- expected_values:
     LEXUS_EGR_STEP_POSITION: 28
   response: 7E80361471C
 - expected_values:
