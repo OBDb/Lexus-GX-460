@@ -3,6 +3,7 @@ test_cases:
 - expected_values:
     LEXUS_EVAP_PURGE_DUTY: 50.58824
     LEXUS_IGN_ADVANCE: 128
+    LEXUS_IGN_ADV_RAW: 128
     LEXUS_LONG_FT_B1S1: 1.5625
     LEXUS_SHORT_FT_B1S1: 0
   response: |-
@@ -12,6 +13,7 @@ test_cases:
 - expected_values:
     LEXUS_EVAP_PURGE_DUTY: 49.80392
     LEXUS_IGN_ADVANCE: 117
+    LEXUS_IGN_ADV_RAW: 117
     LEXUS_LONG_FT_B1S1: 0.78125
     LEXUS_SHORT_FT_B1S1: -11.71875
   response: |-
@@ -21,6 +23,7 @@ test_cases:
 - expected_values:
     LEXUS_EVAP_PURGE_DUTY: 51.76471
     LEXUS_IGN_ADVANCE: 113
+    LEXUS_IGN_ADV_RAW: 113
     LEXUS_LONG_FT_B1S1: 3.90625
     LEXUS_SHORT_FT_B1S1: -10.9375
   response: |-
@@ -30,6 +33,7 @@ test_cases:
 - expected_values:
     LEXUS_EVAP_PURGE_DUTY: 52.94118
     LEXUS_IGN_ADVANCE: 118
+    LEXUS_IGN_ADV_RAW: 118
     LEXUS_LONG_FT_B1S1: 5.46875
     LEXUS_SHORT_FT_B1S1: -6.25
   response: |-
@@ -39,6 +43,7 @@ test_cases:
 - expected_values:
     LEXUS_EVAP_PURGE_DUTY: 52.94118
     LEXUS_IGN_ADVANCE: 121
+    LEXUS_IGN_ADV_RAW: 121
     LEXUS_LONG_FT_B1S1: 4.6875
     LEXUS_SHORT_FT_B1S1: -5.46875
   response: |-
@@ -48,6 +53,7 @@ test_cases:
 - expected_values:
     LEXUS_EVAP_PURGE_DUTY: 49.01961
     LEXUS_IGN_ADVANCE: 125
+    LEXUS_IGN_ADV_RAW: 125
     LEXUS_LONG_FT_B1S1: 0
     LEXUS_SHORT_FT_B1S1: -3.90625
   response: |-
@@ -57,6 +63,7 @@ test_cases:
 - expected_values:
     LEXUS_EVAP_PURGE_DUTY: 49.80392
     LEXUS_IGN_ADVANCE: 128
+    LEXUS_IGN_ADV_RAW: 128
     LEXUS_LONG_FT_B1S1: 1.5625
     LEXUS_SHORT_FT_B1S1: -1.5625
   response: |-
@@ -66,6 +73,7 @@ test_cases:
 - expected_values:
     LEXUS_EVAP_PURGE_DUTY: 50.19608
     LEXUS_IGN_ADVANCE: 126
+    LEXUS_IGN_ADV_RAW: 126
     LEXUS_LONG_FT_B1S1: 2.34375
     LEXUS_SHORT_FT_B1S1: -1.5625
   response: |-
@@ -75,6 +83,7 @@ test_cases:
 - expected_values:
     LEXUS_EVAP_PURGE_DUTY: 50.58824
     LEXUS_IGN_ADVANCE: 127
+    LEXUS_IGN_ADV_RAW: 127
     LEXUS_LONG_FT_B1S1: 2.34375
     LEXUS_SHORT_FT_B1S1: -1.5625
   response: |-
@@ -84,6 +93,7 @@ test_cases:
 - expected_values:
     LEXUS_EVAP_PURGE_DUTY: 51.37255
     LEXUS_IGN_ADVANCE: 129
+    LEXUS_IGN_ADV_RAW: 129
     LEXUS_LONG_FT_B1S1: 3.90625
     LEXUS_SHORT_FT_B1S1: -1.5625
   response: |-
@@ -93,6 +103,7 @@ test_cases:
 - expected_values:
     LEXUS_EVAP_PURGE_DUTY: 50.19608
     LEXUS_IGN_ADVANCE: 128
+    LEXUS_IGN_ADV_RAW: 128
     LEXUS_LONG_FT_B1S1: 1.5625
     LEXUS_SHORT_FT_B1S1: -0.78125
   response: |-
@@ -102,6 +113,7 @@ test_cases:
 - expected_values:
     LEXUS_EVAP_PURGE_DUTY: 51.76471
     LEXUS_IGN_ADVANCE: 126
+    LEXUS_IGN_ADV_RAW: 126
     LEXUS_LONG_FT_B1S1: 3.90625
     LEXUS_SHORT_FT_B1S1: -0.78125
   response: |-
@@ -111,6 +123,7 @@ test_cases:
 - expected_values:
     LEXUS_EVAP_PURGE_DUTY: 52.94118
     LEXUS_IGN_ADVANCE: 127
+    LEXUS_IGN_ADV_RAW: 127
     LEXUS_LONG_FT_B1S1: 6.25
     LEXUS_SHORT_FT_B1S1: -0.78125
   response: |-
@@ -120,6 +133,7 @@ test_cases:
 - expected_values:
     LEXUS_EVAP_PURGE_DUTY: 54.11765
     LEXUS_IGN_ADVANCE: 126
+    LEXUS_IGN_ADV_RAW: 126
     LEXUS_LONG_FT_B1S1: 7.03125
     LEXUS_SHORT_FT_B1S1: -0.78125
   response: |-
@@ -129,6 +143,7 @@ test_cases:
 - expected_values:
     LEXUS_EVAP_PURGE_DUTY: 51.76471
     LEXUS_IGN_ADVANCE: 125
+    LEXUS_IGN_ADV_RAW: 125
     LEXUS_LONG_FT_B1S1: 3.125
     LEXUS_SHORT_FT_B1S1: 0
   response: |-
@@ -138,6 +153,7 @@ test_cases:
 - expected_values:
     LEXUS_EVAP_PURGE_DUTY: 50.98039
     LEXUS_IGN_ADVANCE: 130
+    LEXUS_IGN_ADV_RAW: 130
     LEXUS_LONG_FT_B1S1: 3.125
     LEXUS_SHORT_FT_B1S1: 0.78125
   response: |-
@@ -147,6 +163,7 @@ test_cases:
 - expected_values:
     LEXUS_EVAP_PURGE_DUTY: 49.80392
     LEXUS_IGN_ADVANCE: 131
+    LEXUS_IGN_ADV_RAW: 131
     LEXUS_LONG_FT_B1S1: 0.78125
     LEXUS_SHORT_FT_B1S1: 1.5625
   response: |-
@@ -156,6 +173,7 @@ test_cases:
 - expected_values:
     LEXUS_EVAP_PURGE_DUTY: 50.19608
     LEXUS_IGN_ADVANCE: 136
+    LEXUS_IGN_ADV_RAW: 136
     LEXUS_LONG_FT_B1S1: 0.78125
     LEXUS_SHORT_FT_B1S1: 6.25
   response: |-
@@ -165,6 +183,7 @@ test_cases:
 - expected_values:
     LEXUS_EVAP_PURGE_DUTY: 49.41176
     LEXUS_IGN_ADVANCE: 128
+    LEXUS_IGN_ADV_RAW: 128
     LEXUS_LONG_FT_B1S1: 0.78125
     LEXUS_SHORT_FT_B1S1: 0
   response: |-
@@ -174,6 +193,7 @@ test_cases:
 - expected_values:
     LEXUS_EVAP_PURGE_DUTY: 49.80392
     LEXUS_IGN_ADVANCE: 128
+    LEXUS_IGN_ADV_RAW: 128
     LEXUS_LONG_FT_B1S1: 0.78125
     LEXUS_SHORT_FT_B1S1: 0
   response: |-
