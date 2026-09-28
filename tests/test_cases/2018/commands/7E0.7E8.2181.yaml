@@ -4,8 +4,8 @@ test_cases:
     LEXUS_SPD_NT: 0
   response: '7E80461810000'
 - expected_values:
-    LEXUS_SPD_NT: 1300
-  response: 7E80461811A51
+    LEXUS_SPD_NT: 1800
+  response: 7E8046181246F
 - expected_values:
     LEXUS_SPD_NT: 2100
   response: 7E80461812A4E

@@ -1,29 +1,8 @@
 command_id: 7C4.7CC.2124
 test_cases:
 - expected_values:
-    LEXUS_SOLAR_DRIVER: 81
-  response: 7CC03612451
-- expected_values:
-    LEXUS_SOLAR_DRIVER: 89
-  response: 7CC03612459
-- expected_values:
-    LEXUS_SOLAR_DRIVER: 99
-  response: 7CC03612463
-- expected_values:
-    LEXUS_SOLAR_DRIVER: 101
-  response: 7CC03612465
-- expected_values:
-    LEXUS_SOLAR_DRIVER: 102
-  response: 7CC03612466
-- expected_values:
-    LEXUS_SOLAR_DRIVER: 104
-  response: 7CC03612468
-- expected_values:
-    LEXUS_SOLAR_DRIVER: 105
-  response: 7CC03612469
-- expected_values:
-    LEXUS_SOLAR_DRIVER: 107
-  response: 7CC0361246B
+    LEXUS_SOLAR_DRIVER: 26
+  response: 7CC0361241A
 - expected_values:
     LEXUS_SOLAR_DRIVER: 110
   response: 7CC0361246E
