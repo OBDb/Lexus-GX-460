@@ -1,0 +1,6 @@
+command_id: 7C4.2144
+test_cases:
+- expected_values:
+    LEXUS_AIR_INLET_DAMPER_ACT: 7
+    LEXUS_AIR_INLET_DAMPER_TGT: 7
+  response: 7CC0661440707001A
