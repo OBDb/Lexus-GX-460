@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.213C
+test_cases:
+- expected_values:
+    LEXUS_INJ_DUR_CYL_1: 2227
+    LEXUS_INJ_VOL_CYL_1: 2.047
+    LEXUS_TOT_FT_1: 0.496
+  response: |-
+    7E81008613C0D4408B3
+    7E821897B0000000000
+- expected_values:
+    LEXUS_INJ_DUR_CYL_1: 2220
+    LEXUS_INJ_VOL_CYL_1: 2.047
+    LEXUS_TOT_FT_1: 0.496
+  response: |-
+    7E81008613C0D6F08AC
+    7E821897C0000000000
+- expected_values:
+    LEXUS_INJ_DUR_CYL_1: 2262
+    LEXUS_INJ_VOL_CYL_1: 2.047
+    LEXUS_TOT_FT_1: 0.496
+  response: |-
+    7E81008613C0DA408D6
+    7E82188790000000000

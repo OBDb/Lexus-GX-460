@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.21E1
+test_cases:
+- expected_values:
+    LEXUS_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E100011D35
+    7E82100001999000000
+- expected_values:
+    LEXUS_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E100011D35
+    7E82100001AE9000000
+- expected_values:
+    LEXUS_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E100011D35
+    7E82100001C27000000
