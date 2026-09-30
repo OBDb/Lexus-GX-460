@@ -8,16 +8,6 @@ test_cases:
 - expected_values:
     LEXUS_CODES_INCLUDE: 0
   response: |-
-    7E8100A61E100011D35
-    7E82100001AE9000000
-- expected_values:
-    LEXUS_CODES_INCLUDE: 0
-  response: |-
-    7E8100A61E100011D35
-    7E82100001C27000000
-- expected_values:
-    LEXUS_CODES_INCLUDE: 0
-  response: |-
     7E8100A61E100011D37
     7E821000002FC000000
 - expected_values:
@@ -28,10 +18,20 @@ test_cases:
 - expected_values:
     LEXUS_CODES_INCLUDE: 0
   response: |-
-    7E8100A61E100011D37
-    7E82100000596000000
+    7E8100A61E100011D39
+    7E82100000307000000
 - expected_values:
     LEXUS_CODES_INCLUDE: 0
   response: |-
-    7E8100A61E100011D37
-    7E82100000719000000
+    7E8100A61E100011D39
+    7E82100000470000000
+- expected_values:
+    LEXUS_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E100011D39
+    7E82100000FEF000000
+- expected_values:
+    LEXUS_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E100011D39
+    7E8210000113F000000
