@@ -1,17 +1,11 @@
 command_id: 7E0.7E8.2181
 test_cases:
 - expected_values:
-    LEXUS_SPD_NT: 400
-  response: '7E80461810804'
+    LEXUS_SPD_NT: 0
+  response: '7E80461810000'
 - expected_values:
-    LEXUS_SPD_NT: 700
-  response: 7E80461810E00
-- expected_values:
-    LEXUS_SPD_NT: 900
-  response: '7E80461811230'
-- expected_values:
-    LEXUS_SPD_NT: 950
-  response: '7E80461811330'
+    LEXUS_SPD_NT: 1200
+  response: 7E8046181184B
 - expected_values:
     LEXUS_SPD_NT: 2250
   response: 7E80461812D24

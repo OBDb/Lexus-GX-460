@@ -4,3 +4,7 @@ test_cases:
     LEXUS_G_SENS_CALIBRATION: 0
     LEXUS_TRANS_OIL_PRESS: 0
   response: '7E80461830989'
+- expected_values:
+    LEXUS_G_SENS_CALIBRATION: 0
+    LEXUS_TRANS_OIL_PRESS: 0
+  response: 7E8046183098A
