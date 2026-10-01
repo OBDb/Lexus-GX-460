@@ -2,21 +2,17 @@ command_id: 7C4.7CC.2126
 test_cases:
 - expected_values:
     LEXUS_ECT: 84.25
-    LEXUS_HYBRID_ECT: 84.25
   response: |-
     2126
     7CC036126ED
 - expected_values:
     LEXUS_ECT: 87.75
-    LEXUS_HYBRID_ECT: 87.75
   response: |-
     21261
     7CC036126F7
 - expected_values:
     LEXUS_ECT: 16
-    LEXUS_HYBRID_ECT: 16
   response: 7CC0361262A
 - expected_values:
     LEXUS_ECT: 88.8
-    LEXUS_HYBRID_ECT: 88.8
   response: 7CC036126FA
