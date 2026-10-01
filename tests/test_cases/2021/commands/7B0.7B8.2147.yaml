@@ -1,8 +1,6 @@
 command_id: 7B0.7B8.2147
 test_cases:
 - expected_values:
-    LEXUS_HYBRID_LAT_G: 0
-    LEXUS_HYBRID_LNG_G: 0
     LEXUS_LAT_G: 0
     LEXUS_LNG_G: 0
     LEXUS_STEERING_ANGLE: 367.4
@@ -11,8 +9,6 @@ test_cases:
     LEXUS_YAW_RATE: -7
   response: 7B80761470000798E5A
 - expected_values:
-    LEXUS_HYBRID_LAT_G: 0
-    LEXUS_HYBRID_LNG_G: 0
     LEXUS_LAT_G: 0
     LEXUS_LNG_G: 0
     LEXUS_STEERING_ANGLE: -0.1
@@ -21,8 +17,6 @@ test_cases:
     LEXUS_YAW_RATE: 0
   response: 7B80761470000807FFF
 - expected_values:
-    LEXUS_HYBRID_LAT_G: 0
-    LEXUS_HYBRID_LNG_G: 0
     LEXUS_LAT_G: 0
     LEXUS_LNG_G: 0
     LEXUS_STEERING_ANGLE: 0
@@ -31,8 +25,6 @@ test_cases:
     LEXUS_YAW_RATE: 0
   response: 7B80761470000808000
 - expected_values:
-    LEXUS_HYBRID_LAT_G: 0
-    LEXUS_HYBRID_LNG_G: -0.02
     LEXUS_LAT_G: 0
     LEXUS_LNG_G: -0.02
     LEXUS_STEERING_ANGLE: -11.5
@@ -41,8 +33,6 @@ test_cases:
     LEXUS_YAW_RATE: -1
   response: 7B807614700FF7F7F8D
 - expected_values:
-    LEXUS_HYBRID_LAT_G: 0.02
-    LEXUS_HYBRID_LNG_G: 0
     LEXUS_LAT_G: 0.02
     LEXUS_LNG_G: 0
     LEXUS_STEERING_ANGLE: -374.5
@@ -51,8 +41,6 @@ test_cases:
     LEXUS_YAW_RATE: -8
   response: 7B8076147010078715F
 - expected_values:
-    LEXUS_HYBRID_LAT_G: 0.34
-    LEXUS_HYBRID_LNG_G: 0.14
     LEXUS_LAT_G: 0.34
     LEXUS_LNG_G: 0.14
     LEXUS_STEERING_ANGLE: 221.2
@@ -61,8 +49,6 @@ test_cases:
     LEXUS_YAW_RATE: 22
   response: 7B807614711079688A4
 - expected_values:
-    LEXUS_HYBRID_LAT_G: -0.22
-    LEXUS_HYBRID_LNG_G: 0
     LEXUS_LAT_G: -0.22
     LEXUS_LNG_G: 0
     LEXUS_STEERING_ANGLE: -204.2
@@ -71,8 +57,6 @@ test_cases:
     LEXUS_YAW_RATE: -22
   response: 7B8076147F5006A7806
 - expected_values:
-    LEXUS_HYBRID_LAT_G: -0.02
-    LEXUS_HYBRID_LNG_G: 0
     LEXUS_LAT_G: -0.02
     LEXUS_LNG_G: 0
     LEXUS_STEERING_ANGLE: -6.5
