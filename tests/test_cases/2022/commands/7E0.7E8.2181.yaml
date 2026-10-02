@@ -4,6 +4,9 @@ test_cases:
     LEXUS_SPD_NT: 0
   response: '7E80461810000'
 - expected_values:
+    LEXUS_SPD_NT: 200
+  response: '7E80461810400'
+- expected_values:
     LEXUS_SPD_NT: 700
   response: 7E80461810E19
 - expected_values:
@@ -13,8 +16,17 @@ test_cases:
     LEXUS_SPD_NT: 750
   response: 7E80461810F0D
 - expected_values:
+    LEXUS_SPD_NT: 750
+  response: 7E80461810F26
+- expected_values:
+    LEXUS_SPD_NT: 900
+  response: 7E8046181122F
+- expected_values:
     LEXUS_SPD_NT: 950
   response: '7E80461811333'
+- expected_values:
+    LEXUS_SPD_NT: 1100
+  response: '7E80461811628'
 - expected_values:
     LEXUS_SPD_NT: 1250
   response: 7E8046181192D
