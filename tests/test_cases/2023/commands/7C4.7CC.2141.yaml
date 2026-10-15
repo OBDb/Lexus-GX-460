@@ -1,9 +1,9 @@
 command_id: 7C4.7CC.2141
 test_cases:
 - expected_values:
-    LEXUS_AIR_MIX_SERVO_ACT_D: 56
-    LEXUS_AIR_MIX_SERVO_TARG_D: 56
-  response: 7CC0661413838093C
+    LEXUS_AIR_MIX_SERVO_ACT_D: 26
+    LEXUS_AIR_MIX_SERVO_TARG_D: 26
+  response: 7CC0661411A1A093C
 - expected_values:
     LEXUS_AIR_MIX_SERVO_ACT_D: 60
     LEXUS_AIR_MIX_SERVO_TARG_D: 60
