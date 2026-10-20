@@ -1,8 +1,8 @@
 command_id: 7C0.7C8.2141
 test_cases:
 - expected_values:
-    LEXUS_OIL_CHANGE_ODO: 5149.9008
+    GX460_OIL_CHANGE_ODO: 5149.9008
   response: 7C803614120
 - expected_values:
-    LEXUS_OIL_CHANGE_ODO: 5310.8352
+    GX460_OIL_CHANGE_ODO: 5310.8352
   response: 7C803614121

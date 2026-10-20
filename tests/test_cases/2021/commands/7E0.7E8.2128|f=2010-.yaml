@@ -1,14 +1,14 @@
-command_id: 7E0.7E8.2128
+command_id: 7E0.7E8.2128|f=2010-
 test_cases:
 - expected_values:
-    LEXUS_ODO_7E0: 109625
+    GX460_ODO_7E0: 109625
   response: 7E805612801AC39
 - expected_values:
-    LEXUS_ODO_7E0: 109822
+    GX460_ODO_7E0: 109822
   response: 7E805612801ACFE
 - expected_values:
-    LEXUS_ODO_7E0: 109824
+    GX460_ODO_7E0: 109824
   response: 7E805612801AD00
 - expected_values:
-    LEXUS_ODO_7E0: 110080
+    GX460_ODO_7E0: 110080
   response: 7E805612801AE00
