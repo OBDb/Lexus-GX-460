@@ -7,4 +7,4 @@ test_cases:
 - expected_values:
     GX460_G_SENS_CALIBRATION: 0
     GX460_TRANS_OIL_PRESS: 0
-  response: 7E804618309B9
+  response: 7E804618309BC
